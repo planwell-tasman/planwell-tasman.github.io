@@ -17,7 +17,7 @@ services:
         icon: fas fa-home      
       - title: "Planning Consultation"
         desc: "We are here to help you with any queries or plans you have regarding local council and planning processes."
-        icon: fab fa-people-arrows
+        icon: fas fa-people-arrows
 
 #portfolio:
 #    title: "Portfolio"
