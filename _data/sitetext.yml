@@ -27,7 +27,7 @@ services:
 
 timeline:
     title: "About" 
-    text: "Over 10 years experience in Tasman District planning"
+    text: "Over 10 years planning experience in Tasman"
     section: timeline
     events:
       - title: "MA Anthropology"
