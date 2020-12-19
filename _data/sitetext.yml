@@ -11,13 +11,13 @@ services:
     list:
       - title: "Resource Consents"
         desc: "Fulfil your vision swiftly and painlessly with our professional resource consent application serivces."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-file-contract #find more at https://fontawesome.com/icons
       - title: "Land Use and Subdivisions"
         desc: "Want to build a house or subdivide your property? Let us help you with the paperwork to maximise your chances of success."
         icon: fas fa-home      
       - title: "Planning Consultation"
         desc: "We are here to help you with any queries or plans you have regarding local council and planning processes."
-        icon: fab fa-markdown
+        icon: fab fa-people-arrows
 
 #portfolio:
 #    title: "Portfolio"
