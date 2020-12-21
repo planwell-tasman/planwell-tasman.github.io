@@ -10,7 +10,7 @@ services:
     section: services
     list:
       - title: "Resource Consents"
-        desc: "Fulfil your vision swiftly and painlessly with our professional resource consent application serivces."
+        desc: "Fulfil your vision swiftly and painlessly with our professional resource consent application services."
         icon: fas fa-file-contract #find more at https://fontawesome.com/icons
       - title: "Land Use and Subdivisions"
         desc: "Want to build a house or subdivide your property? Let us help you with the paperwork to maximise your chances of success."
