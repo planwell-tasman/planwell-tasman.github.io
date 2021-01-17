@@ -10,13 +10,13 @@ services:
     section: services
     list:
       - title: "Resource Consents"
-        desc: "Fulfil your vision swiftly and painlessly with our professional resource consent application services."
+        desc: "Fulfil your vision with Planwell Tasman's professional resource consent application services."
         icon: fas fa-file-contract #find more at https://fontawesome.com/icons
       - title: "Land Use and Subdivisions"
-        desc: "Want to build a house or subdivide your property? Let us help you with the paperwork to maximise your chances of success."
+        desc: "Want to build a first rural dwelling? Subdivide? Establish a commercial activity? Let us help you with the paperwork to maximise your chances for success."
         icon: fas fa-home      
       - title: "Planning Consultation"
-        desc: "We are here to help you with any queries or plans you have regarding local council and planning processes."
+        desc: "Planwell Tasman is here to help you with any planning enquiries or pre-purchase advice. Find out what you can and cannot do with your current or future property."
         icon: fas fa-chalkboard-teacher
 
 #portfolio:
@@ -27,24 +27,25 @@ services:
 
 timeline:
     title: "About" 
-    text: "Over 10 years planning experience in Tasman"
+    text: "Owner and director Ina Holst has twelve years experience as a land use planner with the Tasman District Council in Golden Bay (2009-2021).
+      Ina also has experience working for Wellington City Council in Strategic Planning and in policy development for Science and Research at the  Department of Conservation in Wellington."
     section: timeline
     events:
-      - title: "MA Anthropology"
+      - title: "MA Environmental Studies"
         year: "2002"
-        desc: "Some text about my thesis/qualifications"
+        desc: "Ina holds a Masters degree in Environmental Studies from Victoria University of Wellington as well as Bachelor degrees in Geography and Anthropology."
         image: assets/img/timeline/1.jpg
         alt: 
         align: left
-      - title: "Start at Tasman District Council"
-        year: "2010-2020"
-        desc: "Some text about what I did at work"
+      - title: "Land-use planner at Tasman District Council"
+        year: "2009-2021"
+        desc: "Ina has twelve years of experience as a land use planner working at Tasman District Council in Golden Bay. During this time she has worked on hundreds of land-use planning applications, including subdivisions, first and second dwellings, commercial activity applications and other cases related to the Resource Management Act and building consents."
         image: assets/img/timeline/2.jpg
         alt: 
         align: right
       - title: "Planwell Tasman"
         year: "2021"
-        desc: "Conception of Planwell Tasman as end-to-end planning and consulting agency for Nelson Bays region"
+        desc: "Ina set up Planwell Tasman to provide a quality end-to-end planning and consulting agency for the region."
         image: assets/img/timeline/3.jpg
         alt: image alt text
         #align: #default is left       
@@ -75,16 +76,16 @@ about:
     
 team:
     title: "Our Team"
-    text: "Always seeking excellence"
+    text: "Ina has appeared at hearings and environment court appeals for the council and collaborates with a range of professionals such as surveyors, engineers, landscape architects and designers. Ina has a positive, pragmatic approach and works hard to help clients achieve their goals within the existing planning framework whilst achieveing best possible outcomes for the environment and wider community."
     subtext: 
     section: team
     people:
       - name: "Ina Holst"
         role: "Lead Planner"
         image: assets/img/team/1.jpg
-      - name: "A Surveyor"
-        role: "Surveyor"
-        image: assets/img/team/2.jpg
+          #- name: "A Surveyor"
+          #  role: "Surveyor"
+          #  image: assets/img/team/2.jpg
 #      - name: "Diana Perterson"
 #        role: "Lead Developer"
 #        image: assets/img/team/3.jpg
