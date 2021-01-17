@@ -6,7 +6,9 @@ header:
 
 services:
     title: "Services"
-    text: "Planning and Consenting"
+    text: "PlanWell Tasman specialises in cost-effective, high quality resource consent applications. Based in Golden Bay, PlanWell Tasman provides expert advice on all planning and RMA matters in the Nelson and Tasman region.
+      
+      We offer development and pre-purchase advice as well as assistance with resource constents at competitive rates. Our advice is based on local knowledge and technical expertise gained over a twelve year career in professional planning at Tasman Distric Council in Golden Bay."
     section: services
     list:
       - title: "Resource Consents"
