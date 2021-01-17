@@ -16,8 +16,8 @@ theme: jekyll-agency
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Planwell Tasman
-email      : planwell.tasman@gmail.com #this is also the email contact forms will go to
+title      : PlanWell Tasman
+email      : info@planwell-tasman.co.nz #this is also the email contact forms will go to
 description: "Site description"
 author     : Ina Holst
 logo:     #optional, defaults to site title

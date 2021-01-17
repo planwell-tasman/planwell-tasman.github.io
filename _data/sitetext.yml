@@ -1,5 +1,5 @@
 header:
-    title: PlanWell Tamsan Ltd
+    title: PlanWell Tasman Ltd
     text: Planning Consultancy
     button: Services
     buttonlink: "#services"
@@ -10,13 +10,13 @@ services:
     section: services
     list:
       - title: "Resource Consents"
-        desc: "Fulfil your vision with Planwell Tasman's professional resource consent application services."
+        desc: "Fulfil your vision with PlanWell Tasman's professional resource consent application services."
         icon: fas fa-file-contract #find more at https://fontawesome.com/icons
       - title: "Land Use and Subdivisions"
         desc: "Want to build a first rural dwelling? Subdivide? Establish a commercial activity? Let us help you with the paperwork to maximise your chances for success."
         icon: fas fa-home      
       - title: "Planning Consultation"
-        desc: "Planwell Tasman is here to help you with any planning enquiries or pre-purchase advice. Find out what you can and cannot do with your current or future property."
+        desc: "PlanWell Tasman is here to help you with any planning enquiries or pre-purchase advice. Find out what you can and cannot do with your current or future property."
         icon: fas fa-chalkboard-teacher
 
 #portfolio:
@@ -43,9 +43,9 @@ timeline:
         image: assets/img/timeline/2.jpg
         alt: 
         align: right
-      - title: "Planwell Tasman"
+      - title: "PlanWell Tasman"
         year: "2021"
-        desc: "Ina set up Planwell Tasman to provide a quality end-to-end planning and consulting agency for the region."
+        desc: "Ina set up PlanWell Tasman to provide a quality end-to-end planning and consulting agency for the region."
         image: assets/img/timeline/3.jpg
         alt: image alt text
         #align: #default is left       
