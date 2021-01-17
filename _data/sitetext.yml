@@ -82,15 +82,15 @@ team:
     subtext: 
     section: team
     people:
-      #- name: ""
-      #  role: ""
-      #  image: assets/img/team/empty.jpg
+      - name: ""
+        role: ""
+        image: assets/img/team/empty.jpg
       - name: "Ina Holst"
         role: "Director"
         image: assets/img/team/1.jpg
-          #- name: ""
-          #  role: ""
-          #  image: assets/img/team/empty.jpg
+      - name: ""
+        role: ""
+        image: assets/img/team/empty.jpg
           #- name: "A Surveyor"
           #  role: "Surveyor"
           #  image: assets/img/team/2.jpg
