@@ -76,13 +76,19 @@ about:
     
 team:
     title: "Our Team"
-    text: "Ina has appeared at hearings and environment court appeals for the council and collaborates with a range of professionals such as surveyors, engineers, landscape architects and designers. Ina has a positive, pragmatic approach and works hard to help clients achieve their goals within the existing planning framework whilst achieveing best possible outcomes for the environment and wider community."
+    text: "Ina has appeared at hearings and environment court appeals for the council and collaborates with a range of professionals such as surveyors, engineers, landscape architects and designers. Ina has a positive, pragmatic approach and works hard to help clients achieve their goals within the existing planning framework whilst achieving best possible outcomes for the environment and wider community."
     subtext: 
     section: team
     people:
+      - name: ""
+        role: ""
+        image: assets/img/team/empty.jpg
       - name: "Ina Holst"
         role: "Lead Planner"
         image: assets/img/team/1.jpg
+      - name: ""
+        role: ""
+        image: assets/img/team/empty.jpg
           #- name: "A Surveyor"
           #  role: "Surveyor"
           #  image: assets/img/team/2.jpg
